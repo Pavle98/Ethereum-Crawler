@@ -1,0 +1,11 @@
+com\example\tracelabstask\responseDto\EtherscanApiResponseDto.class
+com\example\tracelabstask\responseDto\UsdtTransactionsResponseDto.class
+com\example\tracelabstask\services\EtherscanApiService.class
+com\example\tracelabstask\responseDto\EthereumTransactionDto.class
+com\example\tracelabstask\controllers\TransactionController.class
+com\example\tracelabstask\responseDto\LastBlockDto.class
+com\example\tracelabstask\responseDto\NumberFromTimestampResponseDto.class
+com\example\tracelabstask\responseDto\EthereumTransactionsResponseDto.class
+com\example\tracelabstask\responseDto\HistoryBalanceDto.class
+com\example\tracelabstask\responseDto\UsdtTransactionDto.class
+com\example\tracelabstask\TraceLabsTaskApplication.class
