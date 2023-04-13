@@ -1,4 +1,4 @@
-# TraceLab instructions
+# Instructions
 
 Clone the repository onto your local machine. Next, import the backend application into your IDE. Once you have done that, start the application by running TraceLabsTaskApplication.
 
